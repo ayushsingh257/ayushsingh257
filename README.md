@@ -42,7 +42,7 @@ Goal:
 
 ---
 
-## / TECH STACK
+## ⚙️ TECH STACK
 
 ### Languages
 
@@ -129,7 +129,7 @@ Goal:
 
 ---
 
-## / GITHUB ANALYTICS
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushsingh257&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
@@ -143,7 +143,7 @@ Goal:
 
 ---
 
-## / ACTIVITY GRAPH
+## 📈 ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsingh257&theme=tokyonight" />
@@ -165,7 +165,7 @@ Goal:
 
 ---
 
-## / CONTRIBUTION MATRIX
+## 🐍 CONTRIBUTION MATRIX
 
 <p align="center">
   <img src="https://github.com/ayushsingh257/ayushsingh257/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
@@ -211,7 +211,7 @@ Job Simulations:
 
 ---
 
-# / FEATURED PROJECT
+# 💠 FEATURED PROJECT
 
 ## Cygnal — Advanced OSINT Investigation Platform
 
