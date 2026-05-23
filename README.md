@@ -43,3 +43,11 @@ Cybersecurity Engineer | OSINT Developer | Full Stack Builder
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh257&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushsingh257&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+</p>
