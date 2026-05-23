@@ -60,3 +60,34 @@ Cybersecurity Engineer | OSINT Developer | Full Stack Builder
 <p align="center">
   <img src="https://github.com/ayushsingh257/ayushsingh257/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+
+---
+
+# 🔥 Featured Project
+
+## 🛡️ Cygnal — Advanced OSINT Investigation Platform
+
+### 🚀 Features
+
+- Passive DNS Lookup
+- IP Reputation Analysis
+- Hybrid Malware Scanning
+- Session Collaboration
+- Investigation Dashboard
+- Audit Viewer
+- Docker Deployment
+- Threat Intelligence Workflows
+- PDF Export System
+
+---
+
+### 🛠️ Tech Stack
+
+Python • FastAPI • Next.js • MongoDB • Docker • Selenium
+
+---
+
+### 📌 Project Repository
+
+👉 https://github.com/ayushsingh257/Cygnal
