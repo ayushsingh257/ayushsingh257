@@ -51,3 +51,12 @@ Cybersecurity Engineer | OSINT Developer | Full Stack Builder
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayushsingh257&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 </p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ayushsingh257/ayushsingh257/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
