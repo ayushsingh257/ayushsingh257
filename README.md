@@ -44,8 +44,62 @@ Goal:
 
 ## / TECH STACK
 
+### Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,react,nextjs,nodejs,ts,tailwind,mongodb,mysql,firebase,docker,linux,git,github,selenium,aws,fastapi,flask,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,bash" />
+</p>
+
+---
+
+### Frontend & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,fastapi,flask" />
+</p>
+
+---
+
+### Databases & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker" />
+</p>
+
+---
+
+### Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,selenium" />
+</p>
+
+---
+
+### Cybersecurity & OSINT Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Threat%20Intelligence-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Malware%20Analysis-DC143C?style=for-the-badge"/>
+
 </p>
 
 ---
