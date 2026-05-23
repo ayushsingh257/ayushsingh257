@@ -157,7 +157,7 @@ Goal:
 
 ---
 
-## / ACHIEVEMENTS
+## 🏆 ACHIEVEMENTS
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayushsingh257&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
@@ -173,7 +173,7 @@ Goal:
 
 ---
 
-# / CERTIFICATIONS
+# 🥇 CERTIFICATIONS
 
 <p align="center">
 
@@ -215,7 +215,7 @@ Job Simulations:
 
 ## Cygnal — Advanced OSINT Investigation Platform
 
-## / PLATFORM PREVIEW
+## PLATFORM PREVIEW
 
 <p align="center">
   <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-home.png" width="48%" />
@@ -259,7 +259,7 @@ https://github.com/ayushsingh257/Cygnal
 
 ---
 
-# / RESEARCH & WRITEUPS
+# 📝 RESEARCH & WRITEUPS
 
 <p align="center">
 
@@ -275,7 +275,7 @@ https://github.com/ayushsingh257/Cygnal
 
 </p>
 
-### Published Articles
+### 📖 Published Articles
 
 - OSINT & Investigation Research  
 - Cybersecurity Learning Notes  
@@ -290,7 +290,7 @@ https://medium.com/@Ayush.S.K
 ---
 
 
-# / CONNECT
+# 🌐 CONNECT
 
 <p align="center">
 
