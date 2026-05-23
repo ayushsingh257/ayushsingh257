@@ -143,6 +143,20 @@ Goal:
 
 ---
 
+## / ACTIVITY GRAPH
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsingh257&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushsingh257&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushsingh257&theme=tokyonight" />
+</p>
+
+---
+
 ## / ACHIEVEMENTS
 
 <p align="center">
