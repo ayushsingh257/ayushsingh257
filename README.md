@@ -47,7 +47,7 @@ Goal:
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,go,java,js,ts,php,html,css,bash,powershell,rust" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ Goal:
 ### Frontend & Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,angular,django,fastapi,flask,tailwind,bootstrap,jquery,threejs,wordpress" />
 </p>
 
 ---
@@ -63,7 +63,23 @@ Goal:
 ### Databases & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite,supabase,azure,aws,gcp,docker" />
+</p>
+
+---
+
+### Hosting / SaaS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,firebase,aws,azure,gcp" />
+</p>
+
+---
+
+### Servers & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx,apache,docker,kubernetes,git,github,gitlab,githubactions" />
 </p>
 
 ---
@@ -71,7 +87,23 @@ Goal:
 ### Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,selenium" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,vscode,postman,selenium,figma" />
+</p>
+
+---
+
+### Design & Creative
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd,canva" />
+</p>
+
+---
+
+### AI / ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 ---
@@ -96,10 +128,15 @@ Goal:
 
 <img src="https://img.shields.io/badge/SOC%20Operations-483D8B?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/SIEM-8B0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Threat%20Intelligence-9400D3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Malware%20Analysis-DC143C?style=for-the-badge"/>
+
 </p>
 
 ---
-
 
 ### Cybersecurity & OSINT Tools
 
@@ -111,21 +148,47 @@ Goal:
 
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Threat%20Intelligence-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Malware%20Analysis-DC143C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 </p>
+
+---
+
+### Platforms & Ecosystem
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+
+</p>
+
+---
 
 ---
 
