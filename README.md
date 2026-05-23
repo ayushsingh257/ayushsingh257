@@ -215,6 +215,40 @@ Job Simulations:
 
 ## Cygnal — Advanced OSINT Investigation Platform
 
+## / PLATFORM PREVIEW
+
+### Landing Interface
+
+<p align="center">
+  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-home.png" width="1000"/>
+</p>
+
+---
+
+### Investigation Dashboard
+
+<p align="center">
+  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-toolgraph.png" width="1000"/>
+</p>
+
+---
+
+### Admin Intelligence Panel
+
+<p align="center">
+  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-admin.png" width="1000"/>
+</p>
+
+---
+
+### Investigation Tools Interface
+
+<p align="center">
+  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-toolsdashboard.png" width="1000"/>
+</p>
+
+---
+
 ```yaml
 Core Features:
   - Passive DNS Lookup
