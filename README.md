@@ -217,35 +217,18 @@ Job Simulations:
 
 ## / PLATFORM PREVIEW
 
-### Landing Interface
-
 <p align="center">
-  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-home.png" width="1000"/>
+  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-home.png" width="48%" />
+  
+  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-toolsdashboard.png" width="48%" />
 </p>
 
----
-
-### Investigation Dashboard
-
 <p align="center">
-  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-toolgraph.png" width="1000"/>
+  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-admin.png" width="48%" />
+  
+  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-toolgraph.png" width="48%" />
 </p>
 
----
-
-### Admin Intelligence Panel
-
-<p align="center">
-  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-admin.png" width="1000"/>
-</p>
-
----
-
-### Investigation Tools Interface
-
-<p align="center">
-  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-toolsdashboard.png" width="1000"/>
-</p>
 
 ---
 
