@@ -76,6 +76,31 @@ Goal:
 
 ---
 
+## / SECURITY ECOSYSTEM
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OffSec-FF0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OPSEC-222222?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Threat%20Hunting-006400?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOC%20Operations-483D8B?style=for-the-badge"/>
+
+</p>
+
+---
+
+
 ### Cybersecurity & OSINT Tools
 
 <p align="center">
@@ -134,6 +159,44 @@ Goal:
 
 ---
 
+# / CERTIFICATIONS
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/EC--Council-111111?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Forage-FF5A5F?style=for-the-badge"/>
+
+</p>
+
+```yaml
+Certifications:
+  - EC-Council Certified Ethical Hacker (CEH v13)
+  - Google Cybersecurity Professional Certificate
+  - Cisco Ethical Hacker
+  - Cisco Junior Cybersecurity Analyst
+  - IBM Cybersecurity Fundamentals
+  - Fortinet Threat Landscape
+  - NVIDIA Networking Fundamentals
+
+Job Simulations:
+  - Deloitte Cybersecurity Simulation
+  - Tata Cybersecurity Analyst
+  - Datacom Cybersecurity Simulation
+```
+
+---
+
 # / FEATURED PROJECT
 
 ## Cygnal — Advanced OSINT Investigation Platform
@@ -164,6 +227,37 @@ https://github.com/ayushsingh257/Cygnal
 ```
 
 ---
+
+# / RESEARCH & WRITEUPS
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Threat%20Intelligence-483D8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Malware%20Analysis-DC143C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Detection%20Engineering-006400?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cybersecurity%20Research-222222?style=for-the-badge"/>
+
+</p>
+
+### Published Articles
+
+- OSINT & Investigation Research  
+- Cybersecurity Learning Notes  
+- Threat Intelligence Concepts  
+- Vulnerability & Security Writeups  
+
+```bash
+Medium:
+https://medium.com/@Ayush.S.K
+```
+
+---
+
 
 # / CONNECT
 
