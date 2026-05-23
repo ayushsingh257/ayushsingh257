@@ -4,11 +4,15 @@
 
 
 <h3 align="center">
-Cybersecurity Engineer | OSINT Developer | Full Stack Builder
+Cybersecurity Engineer • OSINT Developer • Builder of Cygnal
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Cygnal+OSINT+Platform;CEH+v13+Certified;Cybersecurity+Researcher;Threat+Intelligence+Developer;Future+SOC+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Advanced+OSINT+Systems;Threat+Intelligence+%26+Cybersecurity;CEH+v13+Certified;Full+Stack+Cybersecurity+Developer;Future+SOC+%26+Detection+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushsingh257&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
