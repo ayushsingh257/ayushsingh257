@@ -76,7 +76,7 @@ Goal:
 
 ---
 
-## / SECURITY ECOSYSTEM
+### SECURITY ECOSYSTEM
 
 <p align="center">
 
