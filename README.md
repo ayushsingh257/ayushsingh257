@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/banner.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 
 <h3 align="center">
