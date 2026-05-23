@@ -71,7 +71,7 @@ Goal:
 ### Hosting / SaaS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,firebase,aws,azure,gcp" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,azure,gcp" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ Goal:
 ### Servers & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nginx,apache,docker,kubernetes,git,github,gitlab,githubactions" />
+  <img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,git,github,gitlab,githubactions" />
 </p>
 
 ---
