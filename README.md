@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Cybersecurity Engineer • OSINT Developer • Builder of Cygnal
+Cybersecurity Engineer • Threat Intelligence & Detection Engineering • Building Cygnal & NetSentinel-X
 </h3>
 
 <p align="center">
@@ -28,6 +28,7 @@ Role:
 
 Current Project:
   Cygnal — Advanced OSINT Investigation Platform
+  NetSentinel-X — Realtime SOC & Threat Detection System
 
 Focus Areas:
   - OSINT Investigations
@@ -292,7 +293,6 @@ Job Simulations:
   <img src="https://github.com/ayushsingh257/ayushsingh257/raw/main/cygnal-toolgraph.png" width="48%" />
 </p>
 
-
 ---
 
 ```yaml
@@ -318,6 +318,48 @@ Python • FastAPI • Next.js • MongoDB • Docker • Selenium
 
 ```bash
 https://github.com/ayushsingh257/Cygnal
+```
+
+---
+
+
+# 🛡️ FEATURED PROJECT
+
+## NetSentinel-X — Realtime SOC & Threat Detection Platform
+
+## PLATFORM PREVIEW
+
+<p align="center">
+  <img src="./netsentinel-socdashboard.png" width="48%" />
+  
+  <img src="./netsentinel-trafficsourcegraph.png" width="48%" />
+
+<img src="./netsentinel-trafficanalyticpiechart.png" width="48%" />
+  
+  <img src="./netsentinel-threatfeed.png" width="48%" />
+
+
+```yaml
+Core Features:
+  - Realtime Threat Monitoring
+  - DPI-Based Packet Analysis
+  - IOC Detection
+  - Incident Timeline Tracking
+  - Traffic Analytics Dashboard
+  - Live Security Alerts
+  - Threat Intelligence Visualization
+```
+
+### Stack
+
+```bash
+Python • React • Flask/FastAPI • Chart.js • WebSockets • Docker
+```
+
+### Repository
+
+```bash
+https://github.com/YOUR_USERNAME/NetSentinel-X
 ```
 
 ---
