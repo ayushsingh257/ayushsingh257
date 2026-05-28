@@ -403,7 +403,7 @@ https://medium.com/@Ayush.S.K
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ayush-singh-kshatriya/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
