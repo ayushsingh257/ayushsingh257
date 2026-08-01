@@ -229,10 +229,10 @@ Goal:
 
 ---
 
-## 🐍 CONTRIBUTION MATRIX
+## 📈 LIVE CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github.com/ayushsingh257/ayushsingh257/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+    <img src="./assets/contrib-heatmap.svg" width="900">
 </p>
 
 ---
