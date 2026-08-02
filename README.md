@@ -15,7 +15,7 @@ $ ./contribution_monitor.sh
 ## 📈 LIVE CONTRIBUTION GRAPH
 
 <p align="center">
-    <img src="./assets/contrib-heatmap.svg" width="900">
+    <img src="./assets/contrib-heatmap.svg?v=2" width="900">
 </p>
 
 ---

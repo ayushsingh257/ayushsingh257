@@ -42,7 +42,9 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git status
           git add data/contributions.json assets/contrib-heatmap.svg
+          git status
           if git diff --staged --quiet; then
             echo "No changes in contribution data or SVG."
           else

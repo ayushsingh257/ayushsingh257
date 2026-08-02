@@ -38,6 +38,8 @@ HEADERS = {
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
 }
 
 
@@ -109,10 +111,20 @@ def parse_contributions(html: str) -> List[Dict[str, Any]]:
     logger.info("Found %d contribution calendar cells", len(cells))
 
     records: List[Dict[str, Any]] = []
+    today_date = max(datetime.now(timezone.utc).date(), datetime.now().date())
 
     for cell in cells:
         date_str = cell.get("data-date")
         if not date_str:
+            continue
+
+        try:
+            cell_date = datetime.strptime(date_str, "%Y-%m-%d").date()
+        except ValueError:
+            continue
+
+        # Ignore future dates
+        if cell_date > today_date:
             continue
 
         level_str = cell.get("data-level", "0")
@@ -262,6 +274,21 @@ def main() -> None:
     """CLI entry point for contribution fetching."""
     data = process_contributions(DEFAULT_USERNAME)
     save_contributions(data, DEFAULT_OUTPUT_PATH)
+    
+    records = data.get("contributions", [])
+    max_date = records[-1]["date"] if records else "N/A"
+    total_cells = len(records)
+
+    active_records = [r for r in records if r["count"] > 0]
+    latest_record = active_records[-1] if active_records else (records[-1] if records else {"date": "N/A", "count": 0})
+    latest_date = latest_record["date"]
+    latest_count = latest_record["count"]
+
+    print(f"Latest contribution date: {latest_date}")
+    print(f"Latest contribution count: {latest_count}")
+    print(f"Total parsed cells: {total_cells}")
+    print(f"Maximum date found: {max_date}")
+
     logger.info(
         "Summary: %d total contributions, current streak %d days, longest streak %d days",
         data["total_yearly_contributions"],

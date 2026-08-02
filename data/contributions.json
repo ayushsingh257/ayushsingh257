@@ -1,15 +1,14 @@
 {
   "username": "ayushsingh257",
-  "updated_at": "2026-08-01T07:42:47.886562+00:00",
-  "total_yearly_contributions": 252,
-  "current_streak": 19,
-  "longest_streak": 19,
+  "updated_at": "2026-08-02T02:42:47.631190+00:00",
+  "total_yearly_contributions": 282,
+  "current_streak": 20,
+  "longest_streak": 20,
   "best_day": {
     "date": "2026-05-23",
     "count": 38
   },
   "monthly_totals": {
-    "2025-07": 0,
     "2025-08": 0,
     "2025-09": 0,
     "2025-10": 0,
@@ -22,44 +21,9 @@
     "2026-05": 38,
     "2026-06": 5,
     "2026-07": 201,
-    "2026-08": 8
+    "2026-08": 38
   },
   "contributions": [
-    {
-      "date": "2025-07-27",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-07-28",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-07-29",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-07-30",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-07-31",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-01",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-02",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-08-03",
       "count": 0,
@@ -1877,7 +1841,12 @@
     },
     {
       "date": "2026-08-01",
-      "count": 8,
+      "count": 27,
+      "level": 4
+    },
+    {
+      "date": "2026-08-02",
+      "count": 11,
       "level": 2
     }
   ]
